@@ -1,1 +1,3 @@
-# Loading……
+# 选择你的语言|選擇你的語言
+
+## [简体](https://coin-233.github.io/class.github.io/zh-cn.html)      [繁體](https://coin-233.github.io/class.github.io/zh-tw.html)
